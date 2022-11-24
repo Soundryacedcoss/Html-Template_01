@@ -1,0 +1,8 @@
+.Flex{
+    display: flex;
+    column-gap: 4%;
+    margin-left: 4%;
+}
+.div1{
+    width: 45%;
+}
